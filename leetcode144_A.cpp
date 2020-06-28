@@ -1,4 +1,4 @@
-//递归形式
+//二叉树先序遍历递归形式
 void preV(TreeNode* root, vector<int>& res);
 
 class Solution {
